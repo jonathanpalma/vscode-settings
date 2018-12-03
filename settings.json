@@ -1,4 +1,6 @@
 {
+  "editor.detectIndentation": false,
+  "editor.insertSpaces": true,
   "editor.tabSize": 2,
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
@@ -8,6 +10,7 @@
   "gitlens.advanced.messages": {
     "suppressShowKeyBindingsNotice": true
   },
+  "terminal.integrated.shell.windows": "C:\\Windows\\System32\\bash.exe",
   "workbench.iconTheme": "vscode-icons",
   "workbench.colorTheme": "One Dark Pro"
 }
