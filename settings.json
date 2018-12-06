@@ -1,5 +1,7 @@
 {
   "editor.detectIndentation": false,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
   "editor.insertSpaces": true,
   "editor.tabSize": 2,
   "explorer.confirmDelete": false,
@@ -10,7 +12,9 @@
   "gitlens.advanced.messages": {
     "suppressShowKeyBindingsNotice": true
   },
-  "terminal.integrated.shell.windows": "C:\\Windows\\System32\\bash.exe",
-  "workbench.iconTheme": "vscode-icons",
-  "workbench.colorTheme": "One Dark Pro"
+  "window.menuBarVisibility": "toggle",
+  "window.titleBarStyle": "custom",
+  "window.zoomLevel": 1,
+  "workbench.colorTheme": "One Dark Pro",
+  "workbench.iconTheme": "vscode-icons"
 }
