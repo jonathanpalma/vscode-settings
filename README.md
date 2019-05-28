@@ -2,7 +2,6 @@
 Sharing my VS Code configuration in order to keep it updated across my different environments
 
 ### Extensions
-- [:emojisense:](https://github.com/mattbierner/vscode-emojisense)
 - [Auto Close Tag](https://github.com/formulahendry/vscode-auto-close-tag)
 - [Auto Rename Tag](https://github.com/formulahendry/vscode-auto-rename-tag)
 - [Babel JavaScript](https://github.com/michaelgmcd/vscode-language-babel)
